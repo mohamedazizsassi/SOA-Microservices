@@ -15,5 +15,5 @@ A simple weather app using **OpenWeather API**, implemented with `request`  and 
 ## 🛠 Installation
 1. **Clone the repository**  
    ```sh
-   git clone https://github.com/your-username/weather-app.git
+   git clone https://github.com/mohamedazizsassi/SOA-Microservices
    cd weather-app
